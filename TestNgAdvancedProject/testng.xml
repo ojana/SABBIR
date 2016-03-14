@@ -1,0 +1,40 @@
+<suite name="test">
+<!-- <packages>
+	<package name="com.bit.test"></package>
+
+</packages> -->
+
+
+
+
+	<test name="myTest1">
+	
+		<parameter name"b" value="F"></parameter>
+			<classes>
+				<class name="com.bit.test.DemoTest"></class>
+					<methods>
+						<method>
+						
+							<include name="m2"></include>
+							
+						</method>
+					</methods>
+			</classes>
+	</test>
+</suite>
+<suite name="test" parallel="test">
+<test name="myTest2">
+	
+		<parameter name"b" value="F"></parameter>
+			<classes>
+				<class name="com.bit.test.DemoTest"></class>
+					<methods>
+						<method>
+						
+							<include name="m2"></include>
+							
+						</method>
+					</methods>
+			</classes>
+	</test>
+</suite>

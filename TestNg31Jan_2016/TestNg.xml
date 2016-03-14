@@ -1,0 +1,15 @@
+<suite name="MySuite">
+	<test name="Practise">
+		<classes>
+			<class name="com.bit.test.AnnotaionDetails"/> //Write the package name before Class name
+				<methods>
+					<include name="m1"/>
+					<include name="m2"/>
+					<exclude name=""/>
+				</methods>		
+		</classes>
+	</test>
+</suite>
+
+
+

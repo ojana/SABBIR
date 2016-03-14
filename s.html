@@ -1,0 +1,51 @@
+<html>
+    <head>
+       <title>Java Script Class</title>
+           <script>
+           function verify()
+            {
+                 var a = document.getElementById("uid").value;
+                 var b = document.getElementById("pass").value;
+                  
+                   if(a == "" && b == "")
+                   {
+                        alert("Forgot to enter User ID and Passwrd");
+                   }
+
+            }
+
+           </script>
+    </head>
+   <body>
+       <b>Registration Form</b> <br><br>
+       User ID: <input type = "text" id="uid"> <br>
+       Password: <input type ="password" id="pass"> <br><br>
+       <input type=button value="submit" onclick="verify()">
+
+         <!-- Following three line are inline call
+
+            <input type=button value="Submit" onclick="alert('how are you')"> <br><br>
+             <input type=button value="Submit" onclick="confirm('this is confirm box')"> <br><br>
+            <input type=button value="Submit" onclick="prompt('this is prompt box')"> <br><br>
+             
+          -->
+
+
+
+
+
+
+
+
+
+
+
+
+ </body> 
+</html>
+
+
+
+
+
+      

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="294" started-at="2015-10-03T17:55:14Z" finished-at="2015-10-03T17:55:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="294" started-at="2015-10-03T17:55:14Z" finished-at="2015-10-03T17:55:15Z">
+      <class name="testNG100315.Demo">
+        <test-method status="PASS" signature="m1()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m1" is-config="true" duration-ms="39" started-at="2015-10-03T13:55:14Z" finished-at="2015-10-03T13:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m2" is-config="true" duration-ms="1" started-at="2015-10-03T13:55:14Z" finished-at="2015-10-03T13:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m3" is-config="true" duration-ms="26" started-at="2015-10-03T13:55:14Z" finished-at="2015-10-03T13:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m4" is-config="true" duration-ms="2" started-at="2015-10-03T13:55:14Z" finished-at="2015-10-03T13:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="test1" duration-ms="129" started-at="2015-10-03T13:55:14Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="m8()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m8" is-config="true" duration-ms="1" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m4" is-config="true" duration-ms="4" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="test2" duration-ms="6" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="m8()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m8" is-config="true" duration-ms="2" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+        <test-method status="PASS" signature="m7()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m7" is-config="true" duration-ms="3" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method status="PASS" signature="m6()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m6" is-config="true" duration-ms="1" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:testNG100315.Demo@77f03bb1]" name="m5" is-config="true" duration-ms="1" started-at="2015-10-03T13:55:15Z" finished-at="2015-10-03T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+      </class> <!-- testNG100315.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

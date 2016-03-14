@@ -1,0 +1,35 @@
+
+<suite name="test" parallel="None">
+	
+	<test name="test01">
+		<parameter name="browser" value="chrome"></parameter>
+			<classes>
+				<class name="com.bit.test.ParallalTest">
+					<methods>
+						<method name="abc"></method>
+					
+					</methods>
+				
+				</class>
+		
+			</classes>
+	</test>
+</suite>
+
+
+<suite name="test1" parallel="None">
+	
+	<test name="test01">
+		<parameter name="browser" value="firefox"></parameter>
+			<classes>
+				<class name="com.bit.test.ParallalTest">
+					<methods>
+						<method name="abc"></method>
+					
+					</methods>
+				
+				</class>
+		
+			</classes>
+	</test>
+</suite>
